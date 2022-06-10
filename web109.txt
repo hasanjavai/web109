@@ -1,0 +1,7 @@
+create reposty
+download gitbash
+developer token
+colone using gitbash
+push some file on from the computer to gitbash.
+
+
